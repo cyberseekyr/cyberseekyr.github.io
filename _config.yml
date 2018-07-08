@@ -22,8 +22,7 @@ logo: /assets/images/cyberseekyr-logo.png
 google_analytics: UA-121721401-1
 twitter_username:
 github_username:  cyberseekyr
-search: true
-search_provider: lunr
+search: false
 
 # Build settings
 markdown: kramdown
