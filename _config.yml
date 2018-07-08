@@ -24,7 +24,6 @@ twitter_username:
 github_username:  cyberseekyr
 
 search: true
-search_full_content: #true # true, false (default)
 search_provider: lunr
 
 # Build settings
